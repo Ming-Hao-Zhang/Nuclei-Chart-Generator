@@ -10,7 +10,7 @@ After installation, the most convenient way to run the program is by using Spyde
 
 Data Updates
 
-The data.txt file contains information on known nuclei as of June 16, 2024. To update this information, visit the following websites:
+The data.txt file contains information on known nuclei as of March 27, 2025. To update this information, visit the following websites:
 
 https://people.nscl.msu.edu/~thoennes/isotopes/index.html 
 
