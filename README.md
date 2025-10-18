@@ -8,7 +8,7 @@ If you use this code or any part of it in your research, publications, or report
     Please include a specific acknowledgment in your publication (e.g., in the "Acknowledgments" or "Methods" section) that credits this work.
 
 **Example Acknowledgement:**
-    > "We acknowledge the use of the code provided by [Minghao Zhang], available at [https://github.com/Ming-Hao-Zhang/Nuclei-Chart-Generator]."
+    > "We acknowledge the use of the code provided by Minghao Zhang, available at https://github.com/Ming-Hao-Zhang/Nuclei-Chart-Generator."
 
 
 This is a very simple, beginner-friendly Python program that helps you automatically generate a nuclei chart.
