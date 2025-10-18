@@ -1,5 +1,16 @@
 # nuclei-chart
 
+This repository is licensed under the **CC BY-NC-SA 4.0** license.
+
+If you use this code or any part of it in your research, publications, or reports, you **must** comply with the license terms, which include:
+
+**Acknowledge and Cite this Repository**:
+    Please include a specific acknowledgment in your publication (e.g., in the "Acknowledgments" or "Methods" section) that credits this work.
+
+**Example Acknowledgement:**
+    > "We acknowledge the use of the code provided by [Minghao Zhang], available at [https://github.com/Ming-Hao-Zhang/Nuclei-Chart-Generator]."
+
+
 This is a very simple, beginner-friendly Python program that helps you automatically generate a nuclei chart.
 
 This program is designed to be easy for beginners to use. Follow these steps to get started:
