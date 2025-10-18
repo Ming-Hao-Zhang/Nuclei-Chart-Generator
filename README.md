@@ -36,7 +36,7 @@ Notes
 
 The arialuni font is included in the program, but it is not necessary. I just haven't removed it from the code.
 
-This is rough code I wrote in early 2021 when I was learning Python. There are many silly parts in the code. Even though the data has been verified many times, its reliability cannot be guaranteed 100%, so please use it only as a reference. I hope this can help you.
+This is rough code I wrote in early stage when I was learning Python. There are many silly parts in the code. Even though the data has been verified many times, its reliability cannot be guaranteed 100%, so please use it only as a reference. I hope this can help you.
 
 The data are mainly taken from the following website:
 
